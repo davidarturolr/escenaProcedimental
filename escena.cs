@@ -205,7 +205,7 @@ public class escena : MonoBehaviour
         cabeza2.transform.position = new Vector3(4.28f, 2.564f, 10);
 
 
-        //persona2
+        //persona3
 
         GameObject cabeza3 = GameObject.CreatePrimitive(PrimitiveType.Sphere);
         cabeza3.transform.position = new Vector3(0.28f, 2.564f, 19);
